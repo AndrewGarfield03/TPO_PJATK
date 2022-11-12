@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Project7_TPO:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/Project7_TPO_war</output-path>
+    <root id="archive" name="Project7_TPO_war.war">
+      <element id="artifact" artifact-name="Project7_TPO:war exploded" />
+    </root>
+  </artifact>
+</component>
